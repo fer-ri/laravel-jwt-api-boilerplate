@@ -6,7 +6,7 @@ php:
 
 before_script:
   - cp .env.example .env
-  - composer install --dev
+  - composer install
   - php artisan key:generate
   - php artisan jwt:secret
 
