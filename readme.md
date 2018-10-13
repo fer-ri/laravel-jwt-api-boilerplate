@@ -1,5 +1,7 @@
 ## Laravel JWT API Boilerplate
 
+[![Build Status](https://travis-ci.org/ghprod/laravel-jwt-api-boilerplate.svg?branch=master)](https://travis-ci.org/ghprod/laravel-jwt-api-boilerplate)
+
 Based on latest stable version of Laravel (5.7).
 
 ### Features
